@@ -232,6 +232,50 @@ class PlacesTableSeeder extends Seeder
                 'schedule'=>"Lunes a Sábados de 8:00 am a 4:00 pm",
                 'urlMainphoto'=>"bioparques/ultria/ultria-1.jpg",
                 'type'=>"bioparque"
+            ],
+            [
+                'name'=>"Parque Nacional Natural Utría",
+                'latitude'=>6.0208234,
+                'longitude'=>-77.234003,
+                'description'=>"Pocos lugares reúnen tanto misterio y belleza a la vez, como la Ensenada de Utría ubicada en la costa norte del Pacífico colombiano, en el departamento del Chocó. Hacia el sur, el visitante observará una serie de estribaciones montañosas cubiertas de exuberante selva tropical que cortan el mar semiocultas entre la bruma. Sus calmadas y cálidas aguas son un lugar propicio para la llegada de especies migratorias como tortugas marinas, aves y ballenas y el sitio ideal para el desove de peces como la aguja ensenadeña (Tylosurus acus pacificus). La Ensenada es un paisaje cambiante que crece y decrece según la marea, mientras que los sinuosos esteros entre el manglar alcanzan mutaciones aún más dramáticas con sus cambios; durante marea baja se mueven algunas criaturas terrestres entre las raíces de los mangles, pero cuando la marea sube, éstas se desplazan para dar lugar a la fauna subacuática que llega con el agua del mar.",
+                'route'=>"Se puede llegar a Bahía Solano o Nuquí en avion desde Bogotá o Cali (con tránsito en Medellín).",
+                'costs'=>"Para los adultos colombianos o residentes extranjeros el precio es de $18.000. Para los extranjeros visitantes el precio es de $51.000.",
+                'schedule'=>"Lunes a Sábados de 8:00 am a 4:00 pm",
+                'urlMainphoto'=>"bioparques/ultria/ultria-1.jpg",
+                'type'=>"bioparque"
+            ],
+            [
+                'name'=>"Zoológico Amazonia Park",
+                'latitude'=>-4.146691,
+                'longitude'=>-69.934612,
+                'description'=>"El colegio INEM de la ciudad de Leticia en su departamento de ciencias naturales y educación ambiental, realizó un proyecto muy profesional con material (papel) reciclado.  Todo un zoológico amazónico construido por estudiantes de los últimos años de secundaria",
+                'route'=>"Un atractivo turístico para la conservación y contemplación amazónica. kilometro 7,7 • leticia • amazonas • colombia",
+                'costs'=>"Para los adultos colombianos o residentes extranjeros el precio es de $18.000. Para los extranjeros visitantes el precio es de $51.000.",
+                'schedule'=>"Tarifas: Adultos $25.000, Niños $18.000",
+                'urlMainphoto'=>"zoologicos/zoo-amazonia/zoo-amazonia-1.jpg",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"Zoológico de Barranquilla",
+                'latitude'=>11.0109641,
+                'longitude'=>-74.797997,
+                'description'=>"Es un parque que mantiene diversas especies animales para la contemplación del público en Barranquilla, Colombia. Operado por la La Fundación Botánica y Zoológica de Barranquilla, tiene una área de 10 000 m² y unas 109 especies nativas y foráneas. Cuenta con el tigre blanco, especie en vía de extinción y presidente del zoológico elegido por los niños.",
+                'route'=>"Si estás en la Terminal de Transportes, sal por la entrada principal y gira hacia la derecha, allí encontrarás un paradero de Transmetro antes de la esquina. En el Portal de Soledad aborda el bus Ruta R-1. Cuando llegues a la estación Joe Arroyo, haz trasbordo en la Ruta A8-2.",
+                'costs'=>"Valor de la bolera: Adultos $16.000 Niños $16.000 (niños hasta 80 cms de estatura entran gratis) Estudiantes: $16.000. Especiales: Personas en condición de discapacidad: $12.000 Adultos Mayores: $12.000",
+                'schedule'=>"Todos los días del año en jornada continua (menos 24 y 31 de diciembre, y sábado y domingo de carnaval), incluyendo domingos y festivos, de 9:00 AM a 5:00 PM.",
+                'urlMainphoto'=>"zoologicos/zoo-barranquilla/zoo-barranquilla-1.jpg",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"Zoológico Cafam Melgar",
+                'latitude'=>4.194609,
+                'longitude'=>-74.629901,
+                'description'=>"El Zoologico CAFAM ubicado en un complejo vacacional donde puedes interactuar con la naturaleza, aprender y divertirte; conservando los recursos naturales.",
+                'route'=>"Desde Bogotá por Granada-Soacha en la dirección Cl 8 Cr 15 #12b-15, Melgar, Tolima",
+                'costs'=>"TARIFA NIÑOS MENORES DE 0 a 4 AÑOS y 364 días: Únicamente pagan el seguro de pasadía ($750). TARIFA NIÑO 5 A 11 AÑOS y 364 días: Temporada baja lunes a viernes: Categoría A: $7.500; Categoría B: $8.400; Categoría C: $16.400; Particulares: $21.200. TARIFA NIÑO 5 A 11 AÑOS y 364 días: Temporada baja FDS y temporada Alta: Categoría A: $13.000; Categoría B: $14.500; Categoría C: $25.100; Particulares: $39.200. TARIFA ADULTO 12 años o más: Temporada baja lunes a viernes Categoría A: $9.350; Categoría B: $10.450; Categoría C: $20.500; Particulares: $26.550. TARIFA ADULTO 12 años o más: Temporada baja FDS y temporada Alta Categoría A: $16.250; Categoría B: $18.150; Categoría C: $31.350; Particulares: $48.950​.",
+                'schedule'=>"Lunes a jueves 8:00am a 6:00pm, Viernes Sabado y Domingo abiero las 24 horas.",
+                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg",
+                'type'=>"zoologico"
             ]
         ];
         foreach ($places as $place) {
