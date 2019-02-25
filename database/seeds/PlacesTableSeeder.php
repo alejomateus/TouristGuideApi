@@ -223,17 +223,6 @@ class PlacesTableSeeder extends Seeder
                 'type'=>"bioparque"
             ],
             [
-                'name'=>"Parque Nacional Natural El Tuparro",
-                'latitude'=>5.268743,
-                'longitude'=>-68.609619,
-                'description'=>"El Parque Tuparro podría describirse paisajísticamente como una extensa sabana verde surcada por grandes ríos con potentes raudales y playas doradas, pequeños caños de aguas cristalinas, bosques de galería, morichales y saladillales, además de enormes rocas cristalinas en forma de cerros redondeados. Aquí se calcula la presencia de más de 320 especies de aves, muchas de ellas acuáticas.",
-                'route'=>"Desde Puerto Carreño – Cazuarito – Garcitas. (Tiempo de recorrido aproximado 8 horas) (En este punto los vehículos deben quedarse).  De allí vía fluvial al parque por el río Orinoco (tiempo de recorrido aproximado 1 hora).",
-                'costs'=>"Para los colombianos o residentes menores de 25 años el precio es de $9.500. Para los mayores de 25 colombianos o residentes el precio es de $15.000. Por último, los extranjeros no residentes pagan un valor de $43.500.",
-                'schedule'=>"Lunes – Viernes 8:00a.m. a 5:00p.m. Sábados 8:00 a.m a 3:00 pm",
-                'urlMainphoto'=>"bioparques/tuparro/tuparro-1.jpg",
-                'type'=>"bioparque"
-            ],
-            [
                 'name'=>"Parque Nacional Natural Utría",
                 'latitude'=>6.0208234,
                 'longitude'=>-77.234003,
