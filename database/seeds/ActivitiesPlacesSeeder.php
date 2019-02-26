@@ -291,7 +291,7 @@ class ActivitiesPlacesSeeder extends Seeder
             ],
             [
                 'place_id'=>3,
-                'description'=>""
+                'description'=>" "
             ],
             [
                 'place_id'=>3,
