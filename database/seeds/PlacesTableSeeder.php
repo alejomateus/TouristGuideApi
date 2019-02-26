@@ -276,6 +276,83 @@ class PlacesTableSeeder extends Seeder
                 'schedule'=>"Lunes a jueves 8:00am a 6:00pm, Viernes Sabado y Domingo abiero las 24 horas.",
                 'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg",
                 'type'=>"zoologico"
+            ],
+            [
+                'name'=>"Zoológico de Cali",
+                'latitude'=>3.448548,
+                'longitude'=>-76.5591623,
+                'description'=>"Es una organización ambiental que ofrece una experiencia única de contacto con la riqueza natural y cultural de Colombia, que promueve y ejecuta programas de educación, comunicación, recreación e investigación para la conservación de la biodiversidad colombiana.",
+                'route'=>"Cra. 2 oeste Calle 14 – Santa Teresita. Cali – Colombia",
+                'costs'=>"Tarifas: Adultos $22.000 Niños: $15.000",
+                'schedule'=>"Abierto todos los días, incluyendo domingos y festivos. Horarios 9:00 am a 4:30 pm",
+                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
+            ],
+            [
+                'name'=>"",
+                'latitude'=>,
+                'longitude'=>,
+                'description'=>"",
+                'route'=>"",
+                'costs'=>"",
+                'schedule'=>"",
+                'urlMainphoto'=>"",
+                'type'=>"zoologico"
             ]
         ];
         foreach ($places as $place) {
