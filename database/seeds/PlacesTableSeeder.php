@@ -285,7 +285,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=>"Cra. 2 oeste Calle 14 – Santa Teresita. Cali – Colombia",
                 'costs'=>"Tarifas: Adultos $22.000 Niños: $15.000",
                 'schedule'=>"Abierto todos los días, incluyendo domingos y festivos. Horarios 9:00 am a 4:30 pm",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg",
+                'urlMainphoto'=>"zoologicos/zoo-cali/zoo-cali-1.jpg",
                 'type'=>"zoologico"
             ],
             [
@@ -297,7 +297,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Estamos ubicados en el hermoso municipio de Tibasosa, en la bella Boyacá, a 3h de Bogotá y 10 min de Duitama y Sogamoso. Dirección=> Km 1, Vía las Antenas, Tibasosa, Boyacá",
                 'costs'=> "Entrada general=> $25.000 con ingreso al Zoo. Brazalete plus=> $62.000 ingreso al Zoo y 4 atracciones. Brazalete platino=> $82.000 ingreso al zoo y 5 atracciones",
                 'schedule'=> "Todos los días 9:00 AM a 4:00 PM.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"zoologicos/zoo-guatika/zoo-guatika-1.jpg"
             ],
             [
                 'name'=> "Zoológico Parque Tematico Hacienda Napoles",
@@ -308,7 +308,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Estamos ubicados en el municipio de Puerto Triunfo –Antioquia, en  Doradal kilómetro 165 de la autopista Medellín – Bogotá",
                 'costs'=> "Tarifas: Salvaje $45.000, Aventura $62.000, Safari $90.000 y Safari Plus $133.500",
                 'schedule'=> "Todos los días 9:00 AM a 5:00 PM.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg" 
+                'urlMainphoto'=>"zoologicos/zoo-haciendanapoles/zoo-haciendanapoles-1.jpg" 
             ],
             [
                 'name'=> "Zoológico Parque Jaime Duque",
@@ -319,7 +319,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Km 34 Autopista Central del Norte, Tocancipá, Cundinamarca - Colombia",
                 'costs'=> "Tarifas: Brazalete General $34.000, Brazalete especial $45.000",
                 'schedule'=> "Miércoles a Viernes 9:00 am - 5:00 pm Sábado, Domingo y Festivos 10:00 am - 6:00 pm",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"zoologicos/zoo-jaimeduque/zoo-jaimeduque-1.jpg"
             ],
             [
                 'name'=> "Zoológico Bioparque Los Ocarros",
@@ -330,7 +330,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "km 3 Via Restrepo Villavicencio. 65, Villavicencio, Meta",
                 'costs'=> "Niños de 2 a 12 años $12.000. De 12 años en adelante $15.000. Servicio (Opcional) de guía para máx. 25 personas $ 20.000",
                 'schedule'=> "Lunes a Viernes 9:00am a 4:00pm. Fines de semana, días festivos y de temporada 9:00am a 4:30pm",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"zoologicos/zoo-losocarros/zoo-losocarros-1.jpg"
             ],
             [
                 'name'=> "Parque Panaca",
@@ -341,7 +341,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "El Parque Panaca está ubicado en el corazón del eje cafetero de Colombia, exactamente en la vereda Kerman en el municipio de Quimbaya, departamento del Quindío, a tan sólo 40 minutos de la ciudad de Armenia y 50 minutos de Pereira.",
                 'costs'=> "Tarifas: Pasaporte TERRA $35.000, Pasaporte Evento Especial $54.000, Pase Anual $165.000",
                 'schedule'=> "Martes a Domingo 9:00am a 6:00pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"zoologicos/zoo-panaca/zoo-panaca-1.jpg"
             ],
             [
                 'name'=> "Zoológico Santacruz",
@@ -352,7 +352,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Si deseas utilizar el sistema de transporte público, los buses parten de la terminal de transportes de Bogotá; en el módulo amarillo cada 15 minutos y los fines de semana cada 10 minutos. También podrás preguntar por el plan “Ecoturismo Tequendama” que presta el servicio de transporte escolar, empresarial y de turismo, pregunta por este servicio al teléfono 4 07515. Si deseas utilizar tu automóvil: Debes salir de Bogotá por la autopista sur y tomar la ruta hacia Mesitas del Colegio, durante el trayecto encontraras señalización informándote de la llegada al Zoológico",
                 'costs'=> "Tarifas: Adultos $20.000 Niños $14.000. Tarifas únicas de parqueadero: Carros $5.000 Motos $3.000",
                 'schedule'=> "Horarios: Todos los días de 8:00 a 17:00",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"zoologicos/zoo-santacruz/zoo-santacruz-1.jpg"
             ],
             [
                 'name'=> "Zoológico Santa Fe",
@@ -363,7 +363,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> " Los usuarios pueden tomar el Tren Metropolitano, descender en la Estación Industriales y luego caminar hasta el Zoológico a través de la Avenida Guayabal en sentido norte - sur.",
                 'costs'=> "Tarifas: Niños menores de 2 años entran gratis, Niños entre 2 y 12 años $8.000, Adultos $15.000",
                 'schedule'=> "Todos los días 9:00 AM a 5:00 PM.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"   
+                'urlMainphoto'=>"zoologicos/zoo-santafe/zoo-santafe-1.jpg"   
             ],
             [
                 'name'=> "Zoológico Bioparque Ukumarí",
@@ -374,7 +374,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "El Bioparque Ukumarí está ubicado en el Km 14, margen sur, de la vía que de Pereira - Risaralda (Colombia) conduce al corregimiento de Cerritos. A la altura de la Estación Santa Bárbara, a tan sólo 8 Km del Aeropuerto Internacional Matecaña, usted encontrará debidamente señalizada la vía principal de acceso que lo llevará (en un recorrido de 1 Km) hasta el ingreso a Ukumarí y los parqueaderos del Bioparque.",
                 'costs'=> "Tarifas: Pasaporte Ceiba Adultos $27.000, Pasaporte Suricato Niños $19.000",
                 'schedule'=> "Todos los dìas de 9:00am a 5:00pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg" 
+                'urlMainphoto'=>"zoologicos/zoo-ukumari/zoo-ukumari-1.jpg" 
             ],
             [
                 'name'=> "Jardín Botánico de Bogotá José Celestino Mutis",
@@ -385,7 +385,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Se encuentra dentro de la capital de la república. Su dirección es Avenida Calle 63 No. 68-95 y es fácilmente accesible por las vías principales de la ciudad y por transporte público.",
                 'costs'=> "Adultos: $ 3.500. Niños de 4 a 12 años: $ 1.800",
                 'schedule'=> "Lunes a viernes de 8:00 a.m. a 5:00 p.m. Sábados, domingos y festivos de 9:00 a.m. a 5:00 p.m.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-bogota/jb-bogota-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico de Caldas",
@@ -396,18 +396,18 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Se encuentra dentro de la ciudad de Manizales en el departamento de Caldas. La dirección a la universidad es: Cl. 65 #26-10, Manizales, Caldas.",
                 'costs'=> "Para los estudiantes de la institución es completamente gratis. Las personas visitantes al sitio pueden hacer un aporte voluntario.",
                 'schedule'=> "Todos los días de 9:30 am a 3:30 pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-caldas/jb-caldas-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico de Cali",
                 'type'=> "jardin",
                 'latitude'=> 3.4496016,
                 'longitude'=> -76.5695679,
-                'description'=> "La Fundación Jardín Botánico de Cali es una entidad sin ánimo de lucro. El Jardín Botánico de Cali, que se encuentra ubicado a tan solo un kilómetro del zoológico, cuenta con una vegetación nativa del bosque seco tropical, dos senderos temáticos que abordan trabajos sobre la botánica económica y la adaptación de las plantas a los diferentes ecosistemas, con los cuales realizan educación ambiental con colegios, universidades, grupos empresariales y de adultos mayores. Son catorce hectáreas de bosque tropical seco donde crecen guácimos, guayacanes, chiminangos, caracolíes, samanes, carboneros, acacias, orquídeas. Entre los árboles majestuosos, 100 especies de mariposas revolotean y 120 clases distintas de aves y pájaros anidan. Con cuidado, es posible avistar loros, colibríes, barranqueros, pavas de monte, guacharacas, carpinteros.",
-                'route'=> "El Jardín Botánico de Cali, que se encuentra ubicado a tan solo un kilómetro del zoológico y de fácil acceso en carro particular y en transporte público. Avenida 3 No. 22B-140, Cali 760045, Colombia.",
+                'description'=> "La Fundación Jardín Botánico de Cali es una entidad sin ánimo de lucro. El Jardín Botánico de Cali, que se encuentra ubicado a tan solo un kilómetro del jblógico, cuenta con una vegetación nativa del bosque seco tropical, dos senderos temáticos que abordan trabajos sobre la botánica económica y la adaptación de las plantas a los diferentes ecosistemas, con los cuales realizan educación ambiental con colegios, universidades, grupos empresariales y de adultos mayores. Son catorce hectáreas de bosque tropical seco donde crecen guácimos, guayacanes, chiminangos, caracolíes, samanes, carboneros, acacias, orquídeas. Entre los árboles majestuosos, 100 especies de mariposas revolotean y 120 clases distintas de aves y pájaros anidan. Con cuidado, es posible avistar loros, colibríes, barranqueros, pavas de monte, guacharacas, carpinteros.",
+                'route'=> "El Jardín Botánico de Cali, que se encuentra ubicado a tan solo un kilómetro del jblógico y de fácil acceso en carro particular y en transporte público. Avenida 3 No. 22B-140, Cali 760045, Colombia.",
                 'costs'=> "La entrada es gratuita.",
                 'schedule'=> "Lunes a sábados de 8:00 am a 3:00 pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"  
+                'urlMainphoto'=>"jardines/jb-cali/jb-cali-1.jpg"  
             ],
             [
                 'name'=> "Jardín Botánico Los Balsos (Jericó)",
@@ -418,7 +418,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Desde Bogotá hasta jericó la distancia es de 464km con un tiempo estimado de 11 horas y 11 minutos pasando por La Vega, Villeta, Guaduas, Honda, Mariquita, Fresno, Padua, Letras, Manizales, La Felisa, La Pintada, Bolombolo, Peña Lisa, Vía a Tarso Jericó",
                 'costs'=> "La entrada al jardín botánico de jericó es completamente gratuita.",
                 'schedule'=> "El jardín botánico abre sus puertas de 9:00 a.m. a 5:00 p.m. en jornada continua, incluyendo fines de semana y días festivos.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"   
+                'urlMainphoto'=>"jardines/jb-jerico/jb-jerico-1.jpg"   
             ],
             [
                 'name'=> "Jardin Botanico de la Macarena",
@@ -429,7 +429,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Se encuentra ubicado a 18 kilometros del casco urbano de la Macarena, en la vereda La Esperanza, el camino rodeado por hermosos paisajes de sabanas y bosques, cruzando ríos. ",
                 'costs'=> "La entrada oscila entre $3000 y $5000 en temporada baja y alta respectivamente.",
                 'schedule'=> "Abierto al público todos los días de 9:00 am a 4:30 pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-macarena/jb-macarena-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico de Medellín Joaquín Antonio Uribe",
@@ -440,7 +440,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "En el Jardín Botánico de Medellín el ingreso y la salida para peatones es únicamente por el Edificio de Acceso del Jardín, ubicado a pocos pasos de la estación Universidad del Metro. Para quienes visiten en vehículo y necesiten parqueadero deberán pasar sobre la carrera 52 (Carabobo) donde se cuenta con un pequeño parqueadero público, con capacidad para 120 vehículos. Varias rutas de transporte público masivo pasan cerca del Jardín Botánico. El taxi puede detenerse cerca de la entrada peatonal de la carrera 52 con calle 73.",
                 'costs'=> "La entrada al jardín botánico es completamente gratis.",
                 'schedule'=> "Excepto en eventos especiales, el Jardín abre sus puertas de 9:00 a.m. a 4:30 p.m. en jornada continua, incluyendo fines de semana y días festivos.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-medellin/jb-medellin-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico de la Universidad Tecnológica de Pereira",
@@ -451,7 +451,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Se encuentra en la Universidad Tecnológica de Pereira que es la principal universidad de la ciudad.",
                 'costs'=> "No tiene costo alguno.",
                 'schedule'=> "Abierto de Lunes a Viernes de 9:00 am a 4:00 pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-pereira/jb-pereira-1.jpg"
             ],
             [
                 'name'=> "Jardín botánico del Quindío",
@@ -462,7 +462,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Se encuentra ubicado en el municipio de Calarca, Av Centenario no 15-190 Km. 3 Vía al Valle",
                 'costs'=> "Niños entre los 3 y 12 años pagan: $16.000 . Adultos pagan: $32.000",
                 'schedule'=> "Abierto todos los días de 9:00 am a 4:00 pm.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-quindio/jb-quindio-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico de San Andrés",
@@ -473,7 +473,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "Ubicado en el bello sector de Harmony Hall Hill, en la llamada Loma del Mexicano, San Andrés.",
                 'costs'=> "Estudiante con carné, gratis; adultos mayores, $3 mil; turistas nacionales, $7 mil, y turistas internacionales, $10 mil.",
                 'schedule'=> "Martes a sábados: De 9:00 a.m. a 12:00 m., y de 2:00 a 4:30 p.m. Domingos y festivos: De 10:00 a.m. a 12:00 m., y de 2:00 a 4:30 p.m.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-sanandres/jb-sanandres-1.jpg"
             ],
             [
                 'name'=> "Jardín Botánico Alexander von Humboldt",
@@ -484,7 +484,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=> "El Jardín se encuentra dentro de las instalaciones de la Universidad del Tolima. La dirección es: Cl. 42 ##1b-1, Ibagué, Tolima",
                 'costs'=> "Está abierto al público en general.",
                 'schedule'=> "Abierto de Lunes a Viernes de 9:00 am a 4:00 pm. Siempre y cuando se encuentre abierta la Universidad del Tolima.",
-                'urlMainphoto'=>"zoologicos/zoo-cafammelgar/zoo-cafammelgar-1.jpg"
+                'urlMainphoto'=>"jardines/jb-tolima/jb-tolima-1.jpg"
             ]
         ];
         foreach ($places as $place) {
