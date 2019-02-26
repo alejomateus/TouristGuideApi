@@ -234,17 +234,6 @@ class PlacesTableSeeder extends Seeder
                 'type'=>"bioparque"
             ],
             [
-                'name'=>"Parque Nacional Natural Utría",
-                'latitude'=>6.0208234,
-                'longitude'=>-77.234003,
-                'description'=>"Pocos lugares reúnen tanto misterio y belleza a la vez, como la Ensenada de Utría ubicada en la costa norte del Pacífico colombiano, en el departamento del Chocó. Hacia el sur, el visitante observará una serie de estribaciones montañosas cubiertas de exuberante selva tropical que cortan el mar semiocultas entre la bruma. Sus calmadas y cálidas aguas son un lugar propicio para la llegada de especies migratorias como tortugas marinas, aves y ballenas y el sitio ideal para el desove de peces como la aguja ensenadeña (Tylosurus acus pacificus). La Ensenada es un paisaje cambiante que crece y decrece según la marea, mientras que los sinuosos esteros entre el manglar alcanzan mutaciones aún más dramáticas con sus cambios; durante marea baja se mueven algunas criaturas terrestres entre las raíces de los mangles, pero cuando la marea sube, éstas se desplazan para dar lugar a la fauna subacuática que llega con el agua del mar.",
-                'route'=>"Se puede llegar a Bahía Solano o Nuquí en avion desde Bogotá o Cali (con tránsito en Medellín).",
-                'costs'=>"Para los adultos colombianos o residentes extranjeros el precio es de $18.000. Para los extranjeros visitantes el precio es de $51.000.",
-                'schedule'=>"Lunes a Sábados de 8:00 am a 4:00 pm",
-                'urlMainphoto'=>"bioparques/ultria/ultria-1.jpg",
-                'type'=>"bioparque"
-            ],
-            [
                 'name'=>"Zoológico Amazonia Park",
                 'latitude'=>-4.146691,
                 'longitude'=>-69.934612,
