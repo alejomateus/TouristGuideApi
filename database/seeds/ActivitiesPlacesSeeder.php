@@ -194,100 +194,100 @@ class ActivitiesPlacesSeeder extends Seeder
                 'description'=>"Es un lugar perfecto para quienes se interesan por la fauna y flora. La fauna terrestre consiste en su mayoría de reptiles como Iguanas, penny lizard, jack lizard y el lagarto azul; y de diferentes especies de aves residentes y migratorias. La fauna marina también es muy diversa. Los sitios para esta actividad son preferencialmente Crab Cay, White Shoal, manglar de McBean y Iron Wood Hill."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>15,
+                'description'=>"Conocer la Laguna de Cunta, perteneciente al municipio de Vetas y parte de las lagunas que son reserva del Páramo."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>15,
+                'description'=>"Observar los frailejones, los pinos o las rocas, cada paisaje es  hermoso y especial a su manera."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>15,
+                'description'=>"Conocer el corregimiento de Berlin"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>16,
+                'description'=>"La temporada para el desarrollo de la actividad ecoturística en el municipio de la Macarena se prolonga durante todo el año, incluso para el sector Caño Cristales"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>16,
+                'description'=>"Las personas interesadas en visitar los sitios autorizados, pueden hospedarse y alimentarse en los diferentes establecimientos con que cuenta el municipio de la Macarena."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>16,
+                'description'=>"Los recorridos por Caño Cristales incluyen visitas a varios sectores del río donde las formaciones geológicas generan atractivos ideales para los amantes del agua."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>16,
+                'description'=>"Lo que hace a este ecosistema único en el mundo, es que aquí se juntan las regiones andina, amazónica y de Orinoquía, dando lugar a un hábitat donde puede encontrar osos hormigueros, varios tipos de felinos (como tigres y pumas), más de 500 especies de aves y miles de insectos y reptiles"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>17,
+                'description'=>"En el Parque se desarrollan actividades de recuperación, investigación y conservación."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>17,
+                'description'=>"La principal actividad ecoturística la constituyen las caminatas por los diversos lugares y senderos históricos y culturales."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>17,
+                'description'=>"En San Lorenzo y Filo Cartagena hay cabañas donde se pueden alojar los visitantes. En Alto de Mira se puede pernoctar en hamacas dentro de las malocas."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>17,
+                'description'=>"En San Lorenzo y Alto de Mira el tiempo de alojamiento dependerá de la disponibilidad de cupos. En ciudad Perdida, se puede permanecer sólo dos noches, y exclusivamente con el consentimiento del Instituto Colombiano de Antropología e Historia."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"Para llegar hasta el primer camping se puede caminar una larga distancia por la carretera, o tomar un bus por $3.000"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"El camino a pie conocido como el Sendero de las 9 Piedras tiene un tiempo estimado de 20 minutos para llegar hasta el mirador."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"Siguiendo el recorrido a 20 minutos del mirador encontramos la playa conocida como La Piscinita."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"Muy cerca encontramos la playa Cañaveral donde se puede disfrutar de una gran vista, pero no se puede nadar en sus aguas."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"A poco más de 20 minutos de esta playa encontramos El Cabo de San Juan de Guía"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"Muy cerca a esta playa encontramos el inicio del camino para llegar hasta el Pueblito Chairama a 200 metros sobre el nivel del mar con un tiempo estimado de 20 minutos."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>18,
+                'description'=>"Siguiendo el recorrido encontramos la Playa Brava, Bahía Gairaca, Bahía Neguanje y muchas otras playas del parque tayrona que se pueden visitar dependiendo del tiempo disponible para recorrerlo."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>19,
+                'description'=>"El Parque Nacional Natural el Tuparro es un lugar perfecto para quienes se interesan por la fauna y flora, en el área se han registrado 74 especies de mamíferos, entre otras: cinco especies de primates, 112 especies de aves, jaguar, puma, danta, 17 reptiles"
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>19,
+                'description'=>"Senderismo: Sendero de Cucurito o Attalea (Maipures): Con una longitud de tres kilómetros, su recorrido se desarrolla por un sendero guiado sobre el afloramiento rocoso. Dificultad moderada. •Sendero anaconda, ideal para la observación de aves y señales indirectas de mamíferos del Centro Administrativo: Con una longitud de 2500 metros, su recorrido se desarrolla por un sendero guiado sobre bosque con afloramiento rocoso."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>20,
+                'description'=>"Es un lugar perfecto para observar fauna y flora. Entre los mamíferos hay micos, cusumbo, guagua, venado, zorro y perezoso. El pacifico Colombiano es famoso por recibir cada año a los gigantes mamíferos, las ballenas jorobadas. Se observan además especies como palmas, cohíba y comino, entre otros."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>20,
+                'description'=>"Las bellezas escénicas del PNN Utría son el lugar perfecto para esta actividad, aunque si las fotos o videos tienen fines comerciales o de publicación se debe solicitar un permiso de Parques Nacionales Naturales."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>20,
+                'description'=>"a exuberante naturaleza del área protegida y su estado de conservación la convierten en un lugar apto para la realización de investigación científica. Además, como en todos los parques abiertos al ecoturismo, aquí se llevan a cabo actividades de educación ambiental por instituciones educativas o por los funcionarios que hacen una introducción a los visitantes sobre el Parque, objetivos de conservación, servicios y actividades ecoturísticas."
             ],
             [
-                'place_id'=>3,
-                'description'=>""
+                'place_id'=>20,
+                'description'=>"Colombia es el país que tiene mayor número de especies de aves en el mundo, por eso es un destino turístico para los observadores aficionados y profesionales. Entre las especies que se puede observar en el PNN Utría destacan la guala cabecirroja, garza tricolor, guaco manglero, águila pescadora y patico de agua, entre otros."
             ],
             [
                 'place_id'=>3,
