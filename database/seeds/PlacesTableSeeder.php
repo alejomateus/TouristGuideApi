@@ -367,7 +367,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de Bogotá José Celestino Mutis",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 4.6682441,
                 'longitude'=> -74.0999524,
                 'description'=> "El Jardín Botánico de Bogotá lleva el nombre del astrónomo y botánico don José Celestino Mutis. Él fue el primero en consagrarse de lleno al estudio de las ciencias naturales en el territorio de la Nueva Granada. Su tarea fue el comienzo de una honda y larga tradición alrededor de la flora y la fauna de nuestro país. El sabio Mutis nació en Cádiz, España, el 6 de abril de 1732. En 1760 se trasladó a este territorio como médico del virrey Pedro Messia de la Cerda. Con el apoyo del virrey Antonio Caballero y Góngora y la aprobación de Carlos III, inició en 1783 la Real Expedición Botánica del Nuevo Reino de Granada, una de las más importantes expediciones científicas del siglo XVIII, que duró treinta y tres años, en cuya monumental labor se catalogaron 20 mil especies vegetales y 7 mil animales.",
@@ -378,7 +378,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de Caldas",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 5.0567609,
                 'longitude'=> -75.4927316,
                 'description'=> "El Jardín Botánico dependiente de la Universidad de Caldas es un jardín botánico y arboreto con varias colecciones entre las que se incluyen especies forestales nativas de la zona andina colombiana, plantas medicinales, plantas ornamentales, plantas de cultivos para cosechas y de interés económico, y una colección de hierbas. El jardín botánico dirige un programa de educación ambiental. El Jardín Botánico viene consolidando la propuesta de trabajo en las áreas de investigación y conservación, con base en experiencias anteriores y en la necesidad de profundizar el conocimiento existente, sobre el estado y el uso del recurso vegetal promisorio y silvestre en el Departamento de Caldas. En tal sentido, se han definido tres ejes de acción para ser desarrollados a mediano y largo plazo, en conjunto con otras instituciones de carácter local, regional y nacional.",
@@ -389,7 +389,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de Cali",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 3.4496016,
                 'longitude'=> -76.5695679,
                 'description'=> "La Fundación Jardín Botánico de Cali es una entidad sin ánimo de lucro. El Jardín Botánico de Cali, que se encuentra ubicado a tan solo un kilómetro del jblógico, cuenta con una vegetación nativa del bosque seco tropical, dos senderos temáticos que abordan trabajos sobre la botánica económica y la adaptación de las plantas a los diferentes ecosistemas, con los cuales realizan educación ambiental con colegios, universidades, grupos empresariales y de adultos mayores. Son catorce hectáreas de bosque tropical seco donde crecen guácimos, guayacanes, chiminangos, caracolíes, samanes, carboneros, acacias, orquídeas. Entre los árboles majestuosos, 100 especies de mariposas revolotean y 120 clases distintas de aves y pájaros anidan. Con cuidado, es posible avistar loros, colibríes, barranqueros, pavas de monte, guacharacas, carpinteros.",
@@ -400,7 +400,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico Los Balsos (Jericó)",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 5.4738,
                 'longitude'=> -75.4706,
                 'description'=> "En este jardín botánico de Jericó se puede encontrar el espacio adecuado para compartir y disfrutar con familia y amigos. Este lugar puede ser perfecto para relajarte y encontrar paz interior, además experimentar y acercarse un poco más a la naturaleza.",
@@ -411,7 +411,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardin Botanico de la Macarena",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 2.1829465,
                 'longitude'=> -73.7881031,
                 'description'=> "En un espacio de ocho hectáreas en el centro de la isla, en el que reina el aire fresco y puro, está el Jardín Botánico en el que se puede observar la flora que ha sobrevivido desde la era de los dinosaurios, hasta las plantas más evolucionadas que tienen asiento en este pedazo de las Antillas. Este jardín, que pertenece a la Universidad Nacional de Colombia, cuenta con el atractivo adicional de un mirador de 12 metros de alto, con 360 grados de vista, desde donde puede apreciarse gran parte del bosque con que cuenta la isla y la margen oriental del mar Caribe.",
@@ -422,7 +422,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de Medellín Joaquín Antonio Uribe",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 6.1355,
                 'longitude'=> -75.3405,
                 'description'=> "Es un gran museo vivo ubicado en pleno corazón de la ciudad y su principal objetivo es crear experiencias de encuentro y convivencia para la ciudad, integradas a estrategias de investigación, conservación y cultura asociadas a la biodiversidad y a la relación del ser humano con el entorno natural. Cuenta con colecciones vivas de plantas agrupadas en aulas vivas de aprendizaje. El Jardín es un espacio natural donde los visitantes pueden disfrutar, aprender y deleitarse con la variada biodiversidad de flora y fauna, que ha sido protegida por más de 45 años.",
@@ -433,7 +433,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de la Universidad Tecnológica de Pereira",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 4.7902164,
                 'longitude'=> -75.6890738,
                 'description'=> "Un excelente sitio para observar aves es el Jardín Botánico de la Universidad Tecnológica de Pereira, donde se han registrado 168 especies de pájaros, de los cuales 15 son migratorios. Allí, además, han sido identificadas 290 variedades de vegetales, siete de mamíferos y tres de anfibios. El jardín cuenta con un vivero de 0,3 ha donde se venden plantas y se presta asistencia técnica.",
@@ -444,7 +444,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín botánico del Quindío",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 4.5117549,
                 'longitude'=> -75.650894,
                 'description'=> "El Jardín Botánico del Quindío es una organización no gubernamental, creada en 1979 como fundación sin ánimo de lucro, bajo el liderazgo de Alberto Gómez Mejía, con la participación de miembros de la Organización Oikos, la Universidad del Quindío y el Club de Jardinería de Armenia. Está estructurado con tres grandes objetivos: la conservación ecológica, la investigación científica y la educación ambiental. Está estructurado con tres grandes objetivos: la conservación ecológica, la investigación científica y la educación ambiental. Es además un reconocido centro de turismo de naturaleza, en el que nos esmeramos en preservar la belleza de los diferentes paisajes.",
@@ -455,7 +455,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico de San Andrés",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 12.5374175,
                 'longitude'=> -81.7111135,
                 'description'=> "En un espacio de ocho hectáreas en el centro de la isla, en el que reina el aire fresco y puro, está el Jardín Botánico en el que se puede observar la flora que ha sobrevivido desde la era de los dinosaurios, hasta las plantas más evolucionadas que tienen asiento en este pedazo de las Antillas. Este jardín, que pertenece a la Universidad Nacional de Colombia, cuenta con el atractivo adicional de un mirador de 12 metros de alto, con 360 grados de vista, desde donde puede apreciarse gran parte del bosque con que cuenta la isla y la margen oriental del mar Caribe.",
@@ -466,7 +466,7 @@ class PlacesTableSeeder extends Seeder
             ],
             [
                 'name'=> "Jardín Botánico Alexander von Humboldt",
-                'type'=> "jardin",
+                'type'=> "jardin botanico",
                 'latitude'=> 4.4255855,
                 'longitude'=> -75.2118116,
                 'description'=> "El Jardín Botánico Alejandro von Humboldt de la Universidad del Tolima fue creado en 1969. Con 10 ha, está ubicado entre los 1.070 y los 1.170 msnm y es hogar de 516 especies vegetales correspondientes a 110 familias, entre plantas ornamentales, medicinales, frutales y maderables. La mayoría de ellas son representativas de la flora regional y del bosque subandino.",
