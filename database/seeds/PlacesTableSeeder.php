@@ -230,7 +230,7 @@ class PlacesTableSeeder extends Seeder
                 'route'=>"Se puede llegar a Bahía Solano o Nuquí en avion desde Bogotá o Cali (con tránsito en Medellín).",
                 'costs'=>"Para los adultos colombianos o residentes extranjeros el precio es de $18.000. Para los extranjeros visitantes el precio es de $51.000.",
                 'schedule'=>"Lunes a Sábados de 8:00 am a 4:00 pm",
-                'urlMainphoto'=>"bioparques/ultria/ultria-1.jpg",
+                'urlMainphoto'=>"bioparques/utria/utria-1.jpg",
                 'type'=>"bioparque"
             ],
             [

@@ -442,27 +442,27 @@ class GalleryPlacesSeeder extends Seeder
             ],
             [
                 'place_id'=>20,
-                'url'=>"bioparques/ultria/ultria-1.jpg"
+                'url'=>"bioparques/utria/utria-1.jpg"
             ]
             ,
             [
                 'place_id'=>20,
-                'url'=>"bioparques/ultria/ultria-2.jpg"
+                'url'=>"bioparques/utria/utria-2.jpg"
             ]
             ,
             [
                 'place_id'=>20,
-                'url'=>"bioparques/ultria/ultria-3.jpg"
+                'url'=>"bioparques/utria/utria-3.jpg"
             ]
             ,
             [
                 'place_id'=>20,
-                'url'=>"bioparques/ultria/ultria-4.jpg"
+                'url'=>"bioparques/utria/utria-4.jpg"
             ]
             ,
             [
                 'place_id'=>20,
-                'url'=>"bioparques/ultria/ultria-5.jpg"
+                'url'=>"bioparques/utria/utria-5.jpg"
             ],
             [
                 'place_id'=>21,
@@ -730,27 +730,27 @@ class GalleryPlacesSeeder extends Seeder
             ],
             [
                 'place_id'=>32,
-                'url'=>"zoologicos/zoo-ukumari/zoo-ukumar-1.jpg"
+                'url'=>"zoologicos/zoo-ukumari/zoo-ukumari-1.jpg"
             ]
             ,
             [
                 'place_id'=>32,
-                'url'=>"zoologicos/zoo-ukumari/zoo-ukumar-2.jpg"
+                'url'=>"zoologicos/zoo-ukumari/zoo-ukumari-2.jpg"
             ]
             ,
             [
                 'place_id'=>32,
-                'url'=>"zoologicos/zoo-ukumari/zoo-ukumar-3.jpg"
+                'url'=>"zoologicos/zoo-ukumari/zoo-ukumari-3.jpg"
             ]
             ,
             [
                 'place_id'=>32,
-                'url'=>"zoologicos/zoo-ukumari/zoo-ukumar-4.jpg"
+                'url'=>"zoologicos/zoo-ukumari/zoo-ukumari-4.jpg"
             ]
             ,
             [
                 'place_id'=>32,
-                'url'=>"zoologicos/zoo-ukumari/zoo-ukumar-5.jpg"
+                'url'=>"zoologicos/zoo-ukumari/zoo-ukumari-5.jpg"
             ],
             [
                 'place_id'=>33,
@@ -807,7 +807,7 @@ class GalleryPlacesSeeder extends Seeder
             ,
             [
                 'place_id'=>35,
-                'url'=>"jardines/jb-cali/jb-cali-2.jpg"
+                'url'=>"jardines/jb-cali/jb-cali-2.jpeg"
             ]
             ,
             [
